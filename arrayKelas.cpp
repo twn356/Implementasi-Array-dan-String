@@ -9,12 +9,14 @@ void outputData();
 int main() {
     inputData("Syarifah Najwa");
     outputData();
-    inputData("Indomi goreng nyemek terbaik");
-    outputData();
-    inputData("Mi Ayam is life");
-    outputData();
-    inputData("Aku ingin minum matcha");
-    outputData();
+    
+    inputData("Indomi goreng plus telor"); // pemanggilan procedure
+   outputData();
+   inputData("Ayam Bacem Sambal mata"); // pemanggilan procedure
+   outputData();
+   inputData("Lontong Sayur Lauk Haruan"); // pemanggilan procedure
+   outputData();
+ 
     return 0;
 }
 
