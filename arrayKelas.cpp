@@ -7,7 +7,7 @@ void inputData(string nama);
 void outputData();
 
 int main() {
-    inputData("Muhammad Aqshal Habibi");
+    inputData("Syarifah Najwa");
     outputData();
     inputData("Indomi goreng nyemek terbaik");
     outputData();
